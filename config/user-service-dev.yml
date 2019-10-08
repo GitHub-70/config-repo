@@ -12,4 +12,4 @@ server:
 eureka:
   client:
     service-url:
-      defaultZone: http://eureka1:2001/eureka, http://eureka2:2002/eureka   #云服务地点(没有)  就使用默认的地点
+      defaultZone: http://eureka1:2001/eureka, http://eureka2:2002/eureka   #浜戞湇鍔″湴鐐�(娌℃湁)  灏变娇鐢ㄩ粯璁ょ殑鍦扮偣
